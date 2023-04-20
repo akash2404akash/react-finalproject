@@ -1,0 +1,23 @@
+/* App.css */
+
+/* Add your custom styles here */
+
+/* Example styles for Header component */
+.header {
+  background-color: black;
+  padding: 10px;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+/* Example styles for Home component */
+.home {
+  padding: 20px;
+}
+
+/* Example styles for About component */
+.about {
+  padding: 20px;
+}
